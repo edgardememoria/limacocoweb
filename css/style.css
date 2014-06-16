@@ -1,5 +1,5 @@
 body {
-    background-image: url('../img/tapagigante.jpg');
+    background-image: url('../img/tapa_web_sintexto_optimizado.jpg');
     background-color: #000; 
     background-repeat: no-repeat; 
     background-position: center;
@@ -55,8 +55,8 @@ body {
 }
 
 .cornerstone {
-    position: absolute;
-    top:0;
+    position: fixed;
+    top:-5px;
     right:0;
     max-width: 70%;
     min-width: 15%;
@@ -64,18 +64,18 @@ body {
     min-width: 15%;
 }
 
-.fullstretch {
+/* .fullstretch {
     background: -webkit-radial-gradient(center,rgba(142,68,173,0.1), rgba(142,68,173,0.3));
     background: -o-radial-gradient(center,rgba(142,68,173,0.5), rgba(142,68,173,0.9));
     background: -moz-radial-gradient(center,rgba(142,68,173,0.5), rgba(142,68,173,0.9));
-    background: radial-gradient(to center, rgba(142,68,173,0.5), rgba(142,68,173,0.9)); /*Standard*/
+    background: radial-gradient(to center, rgba(142,68,173,0.5), rgba(142,68,173,0.9));
     background-color: rgba(0,0,0,0.1);
     position: fixed;
     top: 0;
     right: 0;
     bottom: 0;
     left: 0;
-}
+}*/
 
 @media(max-width:767px){
     
