@@ -55,6 +55,7 @@ body {
 }
 
 .cornerstone {
+    pointer-events: none;
     position: fixed;
     top:-5px;
     right:0;
